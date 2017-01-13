@@ -1,0 +1,89 @@
+/** {
+	border: 2px solid red;
+
+}*/
+
+
+
+ p {
+
+ }
+h3{
+  color: white;
+
+}
+ .nav-bar {
+	margin-top: 3em;
+	font-size: 15px;
+  margin-left:230px;
+  margin-right: 230px;
+  border: 2px solid white;
+
+ }
+
+
+
+.container {
+   width: 50%;
+   border: 6px solid white;
+}
+
+body {
+	background-color: black;
+  text-align: center;
+}
+img{
+	width: 50%;
+  height: 50%;
+  margin-left:  20px solid white;
+}
+
+.row {
+	list-style-type: none;
+	color: white;
+  width: 100%;
+}
+.row h1 header .well {
+
+text-align: left;
+}
+.well {
+
+}
+
+header h3 {
+	color: white;
+
+}
+
+ul {
+	list-style-type: none;
+	 margin: 0;
+	 padding: 0;
+}
+
+#nav-horizontal {
+ list-style-type: none;
+ border-radius: 4px;
+
+
+}
+
+ * #Content-box-1 {
+
+
+
+
+}
+
+
+
+#Content-box-2 {
+
+}
+#Content-box-3 {
+
+}
+#Content-box-4 {
+
+}
