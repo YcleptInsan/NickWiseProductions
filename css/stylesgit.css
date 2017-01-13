@@ -5,11 +5,13 @@ body {
 	list-style-type: none;
 	font-size: 23px;
 	margin-top: 100px;
+	border: 2px solid white;
 
 }
 
 li {
 	list-style: none;
+	border: 2px solid white;
 }
 
 h3{
